@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150874607336",
+    "project_id": "second-ways-75742",
+    "storage_bucket": "second-ways-75742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150874607336:android:bbf35a1a925260efd3835d",
+        "android_client_info": {
+          "package_name": "com.secondways_inish.secondways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150874607336-lk5vmus2cfh3m1p5p81affb9go3j7qb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.secondways_inish.secondways",
+            "certificate_hash": "9b106b6ea3251b4fb0e41734194c3786ac567305"
+          }
+        },
+        {
+          "client_id": "150874607336-4gfkivrkfdcnpgph2ao5mu1fc0s3sqbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYtLt4d3ZcA1oeiVgCfBVZyZHDDbQ71g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150874607336-4gfkivrkfdcnpgph2ao5mu1fc0s3sqbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
